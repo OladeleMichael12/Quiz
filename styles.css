@@ -50,12 +50,6 @@
     transition: all 0.2s;
   }
   
-  .btn:hover:not([disabled]) {
-    border-right: 10px solid #ae1212;
-    border-left: 10px solid #ae1212;
-    color: #ae1212;
-  }
-  
   .btn:disabled {
     cursor: no-drop;
   }
